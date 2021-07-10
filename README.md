@@ -4,4 +4,6 @@
 - Python 3
   - install requests
 
-#belajar python part 2
+Contoh Date > 2020-01-01
+
+- Belajar python part #2
